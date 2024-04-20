@@ -75,3 +75,6 @@ AND gender = 'female'
 AND hair_color = 'red'
 AND car_make = 'Tesla'
 AND car_model = 'Model S';
+
+INSERT INTO solution VALUES (1, 'Miranda Priestly');
+    SELECT value FROM solution;
